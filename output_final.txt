@@ -1,0 +1,11 @@
+├──steps to make coffee
+│   ├──ground coffee
+│   ├──fill brewer with water
+│   └──place cup in brewer
+│      ├──optionally add milk
+│      └──optionally wash mug
+│         ├──maybe with soap
+│         └──maybe with water
+│   ├──brew coffee
+│   └──enjoy
+      └──or go to starbucks instead!

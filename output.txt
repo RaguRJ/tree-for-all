@@ -1,0 +1,11 @@
+      └──or go to starbucks instead!
+│   └──enjoy
+│   ├──brew coffee
+│         └──maybe with water
+│         ├──maybe with soap
+│      └──optionally wash mug
+│      ├──optionally add milk
+│   └──place cup in brewer
+│   ├──fill brewer with water
+│   ├──ground coffee
+├──steps to make coffee
