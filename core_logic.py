@@ -25,10 +25,7 @@ for element in reversed(lspaces):
         if(row_entry[count_2]=="└──" or row_entry[count_2]=="├──"):
             row_entry[count_2]="│  "
         count_2=count_2+1
-    count_2=space_map[element]+1
-    for element_2 in row_entry[space_map[element]+1:]:
-        row_entry[count_2]="   "
-        count_2=count_2+1
+    row_entry[space_map[element]+1:] = ['   ']*len(row_entry[space_map[element]+1:])
     symbol_entries.append(list(row_entry))
 symbol_entries.reverse()    
 
